@@ -14,8 +14,7 @@ feeds:
     source: https://www.espn.com/espn/rss/nba/news
     source_title: ESPN NBA
     output: feeds/ben-golliver-espn.xml
-    max_items: 50
+    max_items: 20
     filters:
       author_contains:
         - Ben Golliver
-
