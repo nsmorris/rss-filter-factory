@@ -1,0 +1,21 @@
+site:
+  title: RSS Filter Factory
+  description: Public feed filters for republishing smaller RSS streams.
+  base_url: https://nsmorris.github.io/rss-filter-factory/
+
+defaults:
+  max_items: 50
+  user_agent: "rss-filter-factory/1.0 (+https://nsmorris.github.io/rss-filter-factory/)"
+
+feeds:
+  - slug: ben-golliver-espn
+    title: Ben Golliver - ESPN
+    description: ESPN NBA RSS filtered to Ben Golliver by author.
+    source: https://www.espn.com/espn/rss/nba/news
+    source_title: ESPN NBA
+    output: feeds/ben-golliver-espn.xml
+    max_items: 50
+    filters:
+      author_contains:
+        - Ben Golliver
+

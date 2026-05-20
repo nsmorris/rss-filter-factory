@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Ben Golliver - ESPN</title>
+    <description>ESPN NBA RSS filtered to Ben Golliver by author.</description>
+    <link>https://www.espn.com/espn/rss/nba/news</link>
+    <language>en</language>
+    <generator>rss-filter-factory</generator>
+    <lastBuildDate>Wed, 20 May 2026 20:07:58 +0000</lastBuildDate>
+    <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
