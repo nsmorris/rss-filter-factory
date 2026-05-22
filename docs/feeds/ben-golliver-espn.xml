@@ -6,7 +6,15 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Fri, 22 May 2026 12:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:51:36 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copy of Victor Wembanyama is shattering the NBA's age curv...</title>
+      <link>https://www.espn.com/nba/story/_/id/48827372/victor-wembanyama-shattering-nba-age-curve-playoffs-spurs-thunder</link>
+      <guid isPermaLink="false">US-EN-48827372</guid>
+      <pubDate>Fri, 22 May 2026 13:05:53 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>The Spurs' young superstar is defying conventional wisdom about the importance of playoff experience.</description>
+    </item>
   </channel>
 </rss>
