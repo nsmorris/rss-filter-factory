@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 20:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:07:16 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ranking Knicks and Spurs players from 1 to 30: Which roster has the most talent?</title>
+      <link>https://www.espn.com/nba/story/_/id/48939213/ranking-every-player-2026-nba-finals-knicks-spurs-brunson-wembanyama</link>
+      <guid isPermaLink="false">US-EN-48939213</guid>
+      <pubDate>Wed, 03 Jun 2026 17:10:50 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Two teams, 30 players, one series. We rank every player who could take the court in this year's NBA Finals, starting with each team's MVP.</description>
+    </item>
     <item>
       <title>Knicks mum on Robinson's status for Game 1</title>
       <link>https://www.espn.com/nba/story/_/id/48950555/knicks-mum-status-mitchell-robinson-finger-game-1</link>
