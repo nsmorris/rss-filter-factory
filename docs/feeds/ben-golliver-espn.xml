@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 14:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:30:16 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fans get lifetime bans for NBA Finals selfie quest...</title>
+      <link>https://www.espn.com/nba/story/_/id/48966429/court-storming-fan-gets-life-ban-nba-selfie-quest</link>
+      <guid isPermaLink="false">US-EN-48966429</guid>
+      <pubDate>Thu, 04 Jun 2026 16:48:02 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Two fans involved in a selfie-seeking incident during Game 1 of the NBA Finals on Wednesday night have been given lifetime bans from all NBA arenas, a league spokesperson said Thursday.</description>
+    </item>
     <item>
       <title>Fan storms court, attempts selfie next to Wemby</title>
       <link>https://www.espn.com/nba/story/_/id/48962549/fan-runs-court-briefly-stopping-game-1-nba-finals</link>
