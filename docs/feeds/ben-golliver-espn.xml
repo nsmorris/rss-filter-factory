@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 08:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:08:11 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump first sitting president to attend NBA Finals...</title>
+      <link>https://www.espn.com/nba/story/_/id/49004408/trump-becomes-first-sitting-president-attend-nba-finals-game</link>
+      <guid isPermaLink="false">US-EN-49004408</guid>
+      <pubDate>Tue, 09 Jun 2026 07:16:15 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Donald Trump arrived at MSG before Game 3 of the NBA Finals, becoming the first sitting U.S. president to attend a game in the basketball league's championship series.</description>
+    </item>
     <item>
       <title>Fans get lifetime bans for NBA Finals selfie quest...</title>
       <link>https://www.espn.com/nba/story/_/id/48966429/court-storming-fan-gets-life-ban-nba-selfie-quest</link>
