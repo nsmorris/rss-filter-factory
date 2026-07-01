@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 00:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:06:48 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sources: Bids top $1B for clubs in NBA Europe</title>
+      <link>https://www.espn.com/nba/story/_/id/49232235/some-markets-nba-europe-league-receive-1b-bids-sources-say</link>
+      <guid isPermaLink="false">US-EN-49232235</guid>
+      <pubDate>Wed, 01 Jul 2026 05:23:18 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>The NBA has received finalized bids from more than 20 groups vying to participate in NBA Europe, a European basketball league it plans to launch in October 2027, sources familiar with the negotiations told ESPN.</description>
+    </item>
     <item>
       <title>Draft grades: Why the Grizzlies get the only A+</title>
       <link>https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes</link>
