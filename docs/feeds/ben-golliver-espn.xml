@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 07:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:42:05 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The pros and cons of five potential LeBron fits: W...</title>
+      <link>https://www.espn.com/nba/story/_/id/49239600/lebron-james-free-agency-pros-cons-potential-destinations-cavaliers-warriors-heat</link>
+      <guid isPermaLink="false">US-EN-49239600</guid>
+      <pubDate>Fri, 03 Jul 2026 02:09:33 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>null</description>
+    </item>
     <item>
       <title>Winners, losers and dominoes from NBA free agency'...</title>
       <link>https://www.espn.com/nba/story/_/id/49241663/nba-free-agency-2026-winners-losers-teams-trades-signings-contracts-better-worse</link>
@@ -15,14 +23,6 @@
       <pubDate>Thu, 02 Jul 2026 19:07:20 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>Which teams are dominating the offseason? Which already wish they could hit the reset button? We picked 10 winners and losers from fee agency.</description>
-    </item>
-    <item>
-      <title>The pros and cons of five potential LeBron fits: W...</title>
-      <link>https://www.espn.com/nba/story/_/id/49239600/lebron-james-free-agency-pros-cons-potential-destinations-cavaliers-warriors-heat</link>
-      <guid isPermaLink="false">US-EN-49239600</guid>
-      <pubDate>Thu, 02 Jul 2026 15:09:28 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>null</description>
     </item>
     <item>
       <title>Sources: Bids top $1B for clubs in NBA Europe</title>
