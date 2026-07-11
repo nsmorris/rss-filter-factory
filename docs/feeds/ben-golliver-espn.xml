@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 11:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:30:19 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NBPA urges fix, says 2nd apron hurts players, fans...</title>
+      <link>https://www.espn.com/nba/story/_/id/49329997/nbpa-players-carrying-burden-teams-due-second-apron</link>
+      <guid isPermaLink="false">US-EN-49329997</guid>
+      <pubDate>Sat, 11 Jul 2026 05:22:21 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>NBPA executive director David Kelly said the league's "second apron" is forcing teams to make decisions that are "not basketball decisions" and hurting players for the benefit of "cost control."</description>
+    </item>
     <item>
       <title>Dybantsa vs. Peterson, Round 1: Biggest takeaways ...</title>
       <link>https://www.espn.com/nba/story/_/id/49317237/nba-summer-league-takeaways-aj-dybantsa-debut-darryn-peterson-washington-wizards-utah-jazz</link>
@@ -159,14 +167,6 @@
       <pubDate>Thu, 28 May 2026 12:40:45 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>Oklahoma City turned to Alex Caruso, Cason Wallace and Jared McCain to claw its way to a victory.</description>
-    </item>
-    <item>
-      <title>Copy of Victor Wembanyama is shattering the NBA's age curv...</title>
-      <link>https://www.espn.com/nba/story/_/id/48827372/victor-wembanyama-shattering-nba-age-curve-playoffs-spurs-thunder</link>
-      <guid isPermaLink="false">US-EN-48827372</guid>
-      <pubDate>Fri, 22 May 2026 13:05:53 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>The Spurs' young superstar is defying conventional wisdom about the importance of playoff experience.</description>
     </item>
   </channel>
 </rss>
