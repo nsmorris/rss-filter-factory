@@ -6,8 +6,32 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 19:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:55:52 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psych, that's the wrong number! Ja Morant signs ol...</title>
+      <link>https://www.espn.com/nba/story/_/id/49335941/ja-morant-portland-trail-blazers-autographs-wrong-number</link>
+      <guid isPermaLink="false">US-EN-49335941</guid>
+      <pubDate>Sat, 11 Jul 2026 21:10:29 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>The Portland Trail Blazers guard seemed to forget he had a new number when inking a jersey.</description>
+    </item>
+    <item>
+      <title>NBPA urges fix, says 2nd apron hurts players, fans...</title>
+      <link>https://www.espn.com/nba/story/_/id/49329997/nbpa-players-carrying-burden-teams-due-second-apron</link>
+      <guid isPermaLink="false">US-EN-49329997</guid>
+      <pubDate>Sat, 11 Jul 2026 20:22:05 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>NBPA executive director David Kelly said the league's "second apron" is forcing teams to make decisions that are "not basketball decisions" and hurting players for the benefit of "cost control."</description>
+    </item>
+    <item>
+      <title>Morant ready to 'start fresh' with Trail Blazers</title>
+      <link>https://www.espn.com/nba/story/_/id/49335942/ja-morant-says-joining-trail-blazers-starting-all-again</link>
+      <guid isPermaLink="false">US-EN-49335942</guid>
+      <pubDate>Sat, 11 Jul 2026 20:22:05 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Ja Morant said Saturday that his offseason trade from the Grizzlies to the Trail Blazers will give him the chance to "start fresh" and prove that his "bad guy" image is a misconception.</description>
+    </item>
     <item>
       <title>Dybantsa vs. Peterson, Round 1: Biggest takeaways ...</title>
       <link>https://www.espn.com/nba/story/_/id/49317237/nba-summer-league-takeaways-aj-dybantsa-debut-darryn-peterson-washington-wizards-utah-jazz</link>
@@ -15,14 +39,6 @@
       <pubDate>Sat, 11 Jul 2026 14:03:12 +0000</pubDate>
       <author>Zach Kram and Ben Golliver</author>
       <description>The NBA's top picks from the 2026 draft faced off at the Las Vegas summer league. How did AJ Dybantsa and Darryn Peterson fare?</description>
-    </item>
-    <item>
-      <title>NBPA urges fix, says 2nd apron hurts players, fans...</title>
-      <link>https://www.espn.com/nba/story/_/id/49329997/nbpa-players-carrying-burden-teams-due-second-apron</link>
-      <guid isPermaLink="false">US-EN-49329997</guid>
-      <pubDate>Sat, 11 Jul 2026 05:22:21 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>NBPA executive director David Kelly said the league's "second apron" is forcing teams to make decisions that are "not basketball decisions" and hurting players for the benefit of "cost control."</description>
     </item>
     <item>
       <title>The 30 players you need to watch at Vegas summer l...</title>
@@ -151,22 +167,6 @@
       <pubDate>Wed, 03 Jun 2026 01:45:58 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>The Knicks listed backup center Mitchell Robinson as questionable for Game 1 of the NBA Finals against the Spurs on Wednesday due to a broken finger.</description>
-    </item>
-    <item>
-      <title>To Game 7 we go: How the Spurs extended the West f...</title>
-      <link>https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview</link>
-      <guid isPermaLink="false">US-EN-48902205</guid>
-      <pubDate>Fri, 29 May 2026 04:25:30 +0000</pubDate>
-      <author>Ben Golliver and Zach Kram</author>
-      <description>What was most surprising about Spurs' Game 6 win? And who is biggest X factor for Saturday's game?</description>
-    </item>
-    <item>
-      <title>The adjustments the Thunder made to take down the ...</title>
-      <link>https://www.espn.com/nba/story/_/id/48886175/2026-nba-playoffs-how-oklahoma-city-thunder-flipped-game-5-series-san-antonio-spurs-caruso-hartenstein</link>
-      <guid isPermaLink="false">US-EN-48886175</guid>
-      <pubDate>Thu, 28 May 2026 12:40:45 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>Oklahoma City turned to Alex Caruso, Cason Wallace and Jared McCain to claw its way to a victory.</description>
     </item>
   </channel>
 </rss>
