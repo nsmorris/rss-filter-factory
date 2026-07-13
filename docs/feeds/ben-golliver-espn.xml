@@ -6,15 +6,39 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 21:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 22:31:50 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Morant ready to 'start fresh' with Trail Blazers</title>
       <link>https://www.espn.com/nba/story/_/id/49335942/ja-morant-says-joining-trail-blazers-starting-all-again</link>
       <guid isPermaLink="false">US-EN-49335942</guid>
-      <pubDate>Mon, 13 Jul 2026 05:07:02 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 22:41:32 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>Ja Morant said Saturday that his offseason trade from the Grizzlies to the Trail Blazers will give him the chance to "start fresh" and prove that his "bad guy" image is a misconception.</description>
+    </item>
+    <item>
+      <title>Sources: Lakers add Z. Williams on 1-year deal</title>
+      <link>https://www.espn.com/nba/story/_/id/49353086/sources-lakers-add-ziaire-williams-1-year-3m-deal</link>
+      <guid isPermaLink="false">US-EN-49353086</guid>
+      <pubDate>Mon, 13 Jul 2026 22:41:32 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>The Lakers have agreed to a one-year, $3 million deal with free agent forward Ziaire Williams, sources told ESPN.</description>
+    </item>
+    <item>
+      <title>Kessler: Will 'run through brick wall' for Lakers</title>
+      <link>https://www.espn.com/nba/story/_/id/49352392/walker-kessler-says-run-brick-wall-lakers</link>
+      <guid isPermaLink="false">US-EN-49352392</guid>
+      <pubDate>Mon, 13 Jul 2026 22:41:32 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Walker Kessler, who will have a clean bill of health to start next season, said he will "run through a brick wall" for the Lakers after they committed money and draft assets toward acquiring him.</description>
+    </item>
+    <item>
+      <title>Copy of Psych, that's the wrong number! Ja Morant signs ol...</title>
+      <link>https://www.espn.com/nba/story/_/id/49335941/ja-morant-portland-trail-blazers-autographs-wrong-number</link>
+      <guid isPermaLink="false">US-EN-49335941</guid>
+      <pubDate>Mon, 13 Jul 2026 21:01:23 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>The Portland Trail Blazers guard seemed to forget he had a new number when inking a jersey.</description>
     </item>
     <item>
       <title>NBPA urges fix, says 2nd apron hurts players, fans...</title>
@@ -23,14 +47,6 @@
       <pubDate>Sun, 12 Jul 2026 22:02:26 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>NBPA executive director David Kelly said the league's "second apron" is forcing teams to make decisions that are "not basketball decisions" and hurting players for the benefit of "cost control."</description>
-    </item>
-    <item>
-      <title>Copy of Psych, that's the wrong number! Ja Morant signs ol...</title>
-      <link>https://www.espn.com/nba/story/_/id/49335941/ja-morant-portland-trail-blazers-autographs-wrong-number</link>
-      <guid isPermaLink="false">US-EN-49335941</guid>
-      <pubDate>Sun, 12 Jul 2026 20:17:06 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>The Portland Trail Blazers guard seemed to forget he had a new number when inking a jersey.</description>
     </item>
     <item>
       <title>Dybantsa vs. Peterson, Round 1: Biggest takeaways ...</title>
@@ -151,22 +167,6 @@
       <pubDate>Thu, 04 Jun 2026 08:01:55 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>A fan ran onto the Frost Bank Center court during the fourth quarter of Wednesday night's NBA Finals and attempted to take a selfie with Victor Wembanyama, halting play before the Knicks' 105-95 Game 1 victory.</description>
-    </item>
-    <item>
-      <title>Ranking Knicks and Spurs players from 1 to 30: Which roster has the most talent?</title>
-      <link>https://www.espn.com/nba/story/_/id/48939213/ranking-every-player-2026-nba-finals-knicks-spurs-brunson-wembanyama</link>
-      <guid isPermaLink="false">US-EN-48939213</guid>
-      <pubDate>Wed, 03 Jun 2026 17:10:50 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>Two teams, 30 players, one series. We rank every player who could take the court in this year's NBA Finals, starting with each team's MVP.</description>
-    </item>
-    <item>
-      <title>Knicks mum on Robinson's status for Game 1</title>
-      <link>https://www.espn.com/nba/story/_/id/48950555/knicks-mum-status-mitchell-robinson-finger-game-1</link>
-      <guid isPermaLink="false">US-EN-48950555</guid>
-      <pubDate>Wed, 03 Jun 2026 01:45:58 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>The Knicks listed backup center Mitchell Robinson as questionable for Game 1 of the NBA Finals against the Spurs on Wednesday due to a broken finger.</description>
     </item>
   </channel>
 </rss>
