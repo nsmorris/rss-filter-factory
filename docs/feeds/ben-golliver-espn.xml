@@ -6,8 +6,16 @@
     <link>https://www.espn.com/espn/rss/nba/news</link>
     <language>en</language>
     <generator>rss-filter-factory</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 08:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:55:49 +0000</lastBuildDate>
     <atom:link href="https://nsmorris.github.io/rss-filter-factory/feeds/ben-golliver-espn.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silver: Kawhi probe must end before season starts</title>
+      <link>https://www.espn.com/nba/story/_/id/49364590/silver-kawhi-leonard-probe-finish-season-starts</link>
+      <guid isPermaLink="false">US-EN-49364590</guid>
+      <pubDate>Wed, 15 Jul 2026 06:01:25 +0000</pubDate>
+      <author>Ben Golliver</author>
+      <description>Adam Silver acknowledged that the investigation into Kawhi Leonard for alleged cap circumvention must conclude before the start of next season.</description>
+    </item>
     <item>
       <title>Sources: Lakers add Z. Williams on 1-year deal</title>
       <link>https://www.espn.com/nba/story/_/id/49353086/sources-lakers-add-ziaire-williams-1-year-3m-deal</link>
@@ -159,14 +167,6 @@
       <pubDate>Sat, 06 Jun 2026 18:36:09 +0000</pubDate>
       <author>Ben Golliver</author>
       <description>President Trump said Thursday that he has accepted an invitation from New York Knicks owner James Dolan to attend an NBA Finals game at Madison Square Garden next week.</description>
-    </item>
-    <item>
-      <title>Fan storms court, attempts selfie next to Wemby</title>
-      <link>https://www.espn.com/nba/story/_/id/48962549/fan-runs-court-briefly-stopping-game-1-nba-finals</link>
-      <guid isPermaLink="false">US-EN-48962549</guid>
-      <pubDate>Thu, 04 Jun 2026 08:01:55 +0000</pubDate>
-      <author>Ben Golliver</author>
-      <description>A fan ran onto the Frost Bank Center court during the fourth quarter of Wednesday night's NBA Finals and attempted to take a selfie with Victor Wembanyama, halting play before the Knicks' 105-95 Game 1 victory.</description>
     </item>
   </channel>
 </rss>
